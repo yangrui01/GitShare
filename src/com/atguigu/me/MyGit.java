@@ -9,6 +9,5 @@ public class MyGit {
 		int b = 2;
 		//kkk
 		/*llpp*/
-		/*llpp*/
 	}  
 }
